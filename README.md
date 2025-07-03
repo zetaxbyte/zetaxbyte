@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Ngentod!+👋;+I'm+Zeta+Byte!;" />
 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=300&pause=&color=F70909&height=100&lines=~+%24+command+not+found!" alt="Typing SVG" /></a>
+
 <hr/>
 
 <h3 align="center">A NEWBIE Software developer from INDONESIA 🇮🇩</h3>
