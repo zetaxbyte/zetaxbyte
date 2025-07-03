@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Ngentod!+👋;+I'm+Zeta+Byte!;" />
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=300&pause=&color=F70909&width=350&height=35&lines=~+%24+command+not+found!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=777&pause=100&color=F70909&background=000000&center=true&vCenter=true&width=350&height=35&lines=~+%24+eror+command+not+found!" alt="Typing SVG" /></a>
 
 <hr/>
 
