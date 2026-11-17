@@ -11,20 +11,20 @@
 <hr/>
 
 <h3 align="center">
-  🚀 A Beginner Software Developer from Indonesia 🇮🇩
+  🚀 A Newbie Software Developer from Indonesia 🇮🇩
 </h3>
 
 <br/>
 
 <div align="center">
 
-  🔭 Currently working on personal projects
+  🔭 Currently working
 
-  🌱 Currently learning software development
+  🌱 Currently learning
 
-  💬 Ask me about anything related to coding
+  💬 Ask me about nothing
 
-  ⚡ Fun fact: Still debugging my life... and my code!
+  ⚡ Fun fact: nothing
 
 </div>
 
