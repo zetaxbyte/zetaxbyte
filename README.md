@@ -25,9 +25,6 @@
 
 <hr/>
 
-![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=tokyonight)<br>
-![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaxbyte&theme=tokyonight&hide_border=false&layout=compact)
-
 <hr/>
 
 <div align="center">
