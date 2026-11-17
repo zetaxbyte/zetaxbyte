@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zetaxbyte.zetaxbyte" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Ngentod!+👋;+I'm+Zeta+Byte!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Ngentod!+👋;+I'm+ZetaXByte!;" />
 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=777&pause=333&color=FF0909&background=000000&center=true&vCenter=true&width=350&height=35&lines=~+%24+eror+command+not+found!" alt="Typing SVG" /></a>
