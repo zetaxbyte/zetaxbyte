@@ -30,8 +30,6 @@
 
 <br/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
 <div align="center">
 
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" />
