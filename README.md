@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+%F0%9F%91%8B;I'm+ZetaXByte!" alt="Typing SVG" />
 </h1>
 
-<h3
+<h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF0909&background=000000&center=true&vCenter=true&width=400&height=40&lines=~+%24+error%3A+command+not+found!" alt="Terminal Typing SVG" />
 </h3>
 
@@ -25,8 +25,6 @@
   💬 Ask me about nothing
 
   ⚡ Fun fact: nothing
-
-<br/>
 
   <br/><br/>
 <div align="center">
