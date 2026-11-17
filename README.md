@@ -1,44 +1,69 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zetaxbyte.zetaxbyte" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zetaxbyte.zetaxbyte" alt="Profile Visitors" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Ngentod!+👋;+I'm+ZetaXByte!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+%F0%9F%91%8B;I'm+ZetaXByte!" alt="Typing SVG" />
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=777&pause=333&color=FF0909&background=000000&center=true&vCenter=true&width=350&height=35&lines=~+%24+eror+command+not+found!" alt="Typing SVG" /></a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF0909&background=000000&center=true&vCenter=true&width=400&height=40&lines=~+%24+error%3A+command+not+found!" alt="Terminal Typing SVG" />
+</h3>
+
 <hr/>
 
-<h3 align="center">A NEWBIE Software developer from INDONESIA 🇮🇩</h3>
+<h3 align="center">
+  🚀 A Beginner Software Developer from Indonesia 🇮🇩
+</h3>
 
 <br/>
 
-<div align="left">
- 
- 🔭 I’m currently working
- 
- 🌱 I’m currently learning
+<div align="center">
 
-💬 Ask me about nothing
+  🔭 Currently working on personal projects
 
-⚡ Fun fact nothing
+  🌱 Currently learning software development
 
- </div>
+  💬 Ask me about anything related to coding
 
-<hr/>
+  ⚡ Fun fact: Still debugging my life... and my code!
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div zetaxbyte=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
- <br>
-   
-<hr/>
-    
-<div align="center"> 
-  <a href="mailto:zetaxlinux@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
 </div>
 
+<br/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<div align="center">
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=zetaxbyte&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetaxbyte&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
+
+</div>
+
+<br/>
+
 <hr/>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+
+  <a href="mailto:zetaxlinux@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<h3 align="center">
+  Thanks for visiting! ⭐
+</h3>
