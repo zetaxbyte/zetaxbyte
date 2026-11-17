@@ -30,17 +30,9 @@
 
 <br/>
 
-<div align="center">
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" />
-
   <br/><br/>
 
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=zetaxbyte&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetaxbyte&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
 
